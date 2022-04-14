@@ -74,25 +74,7 @@ setTimeout('Redirect()', 1000);
 
         <div class="container-fluid">
            
-            <!--- Header --------------------------->
-		    <div class="row navbar-fixed-top">
-			 
-			  <nav class="navbar navbar-dark" style="background-color: #00FFFF;">
-			  
-			     <div class="container-fluid">
-				
-				    <div class="navbar-header">
-				      <a class="navbar-brand logo" href="#">
-					  <img alt="Brand" src="images/navbgimg.jpg">
-				      </a>
-				      <div class="navbar-text title"><p>A PLUS HOSPITALS <p></div>
-				    </div>
-				
-			     </div>
-			     
-			   </nav>
-		     </div>
-		    <!--- Header Ends Here --------------------------->
+           
 		    
 		    
 		    <div style=" margin-top: -200px; margin-left: 400px;  height: 300px; width:700px; background-color:#276B9C; color: #fff; ">
